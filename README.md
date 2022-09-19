@@ -1,4 +1,29 @@
-### Him I'm Mohammad Agung ✌️
+## Hi I'm Mohammad Agung ✌️
+
+I am a Fullstack Web Developer, Cyber Security Analyst, and Programmer who is interested in open source software 😆. Welcome to my github, the place where i keep cool stuff 😎.
+
+🚀 Programming language i use :
+- C/C++
+- Go
+- Python
+- Ruby
+- Lua
+- Javascript
+
+
+🛰️ Web framework i use :
+- Django
+- Gin
+- Fiber
+- Vue
+
+🌱 I'm currently learning :
+- Haskell
+- Penetration Testing (C|EH & OSCP)
+
+🎃 You can reach me at :
+- 📧 agung.ichiruki@gmail.com
+
 
 <!--
 **agungichiruki/agungichiruki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
