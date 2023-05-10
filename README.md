@@ -19,7 +19,7 @@ I am a Fullstack Web Developer, Cyber Security Analyst, and Programmer who is in
 
 🌱 I'm currently learning :
 - Haskell
-- Penetration Testing (C|EH & OSCP)
+- Penetration Testing
 
 🎃 You can reach me at :
 - 📧 agung.ichiruki@gmail.com
