@@ -9,6 +9,7 @@ I am a Fullstack Web Developer, Cyber Security Analyst, and Programmer who is in
 - Ruby
 - Lua
 - Javascript
+- PHP
 
 
 🛰️ Web framework i use :
@@ -16,6 +17,8 @@ I am a Fullstack Web Developer, Cyber Security Analyst, and Programmer who is in
 - Gin
 - Fiber
 - Vue
+- React
+- CodeIgniter
 
 🌱 I'm currently learning :
 - Haskell
