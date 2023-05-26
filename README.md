@@ -5,6 +5,7 @@ I am a Fullstack Web Developer, Cyber Security Analyst, and Programmer who is in
 🚀 Programming language i use :
 - C/C++
 - Go
+- Dart
 - Python
 - Ruby
 - Lua
