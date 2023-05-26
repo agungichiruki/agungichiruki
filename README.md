@@ -25,7 +25,7 @@ I am a Fullstack Web Developer, Cyber Security Analyst, and Programmer who is in
 - Haskell
 - Penetration Testing
 
-🎃 You can reach me at :
+📫 You can reach me at :
 - 📧 agung.ichiruki@gmail.com
 
 
